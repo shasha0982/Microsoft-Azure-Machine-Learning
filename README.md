@@ -1,6 +1,9 @@
 # Microsoft-Azure-Machine-Learning
 
 
+>>>> Dataset from kaggle competition 
+
+
 # 1. Classification
 
 Toxic-Comment-Classification-Challenge : https://github.com/shasha0982/Toxic-Comment-Classification-Challenge
